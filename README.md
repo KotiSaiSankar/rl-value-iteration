@@ -6,7 +6,7 @@ To develop a Python program to find the optimal policy for the given MDP using t
 ## PROBLEM STATEMENT
 To find the optimal policy for the mdp using value iteration algorithm instead of policy iteration which is slower than value iteration.
 
-## POLICY ITERATION ALGORITHM
+## VALUE ITERATION ALGORITHM
 Firstly the state value function and action value function for all the states of mdp are initialized to zero then while iterating through actions of each state the value function and action value function is caluculated for each state then the maximum action value function of each state is taken to find the best ploicy.
 
 ## VALUE ITERATION FUNCTION
